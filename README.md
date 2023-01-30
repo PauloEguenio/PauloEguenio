@@ -1,6 +1,6 @@
 ### Olá sou Paulo Euegino 👋
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenio&show_icons=true&theme=radical)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenio&show_icons=true&theme=radical)
 
 ##### Tecnologias que eu uso no meu dia 
 
